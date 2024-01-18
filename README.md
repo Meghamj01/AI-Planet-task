@@ -9,13 +9,16 @@ For the Step one i fork the repo and Clone the FastApi Repository using below co
 
 git clone https://github.com/Meghamj01/fastapi-celery.git
 
-To change the directory used below comand
+To change the directory used below comand.
+
 cd fastapi-celery  
 
 To list out the files and explore used below command.
+
 ls    
 
-To check all the permission used below command
+To check all the permission used below command.
+
 ll
 
 
