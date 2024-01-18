@@ -1,9 +1,9 @@
 # AI-Planet-task
 
 
-///1. Setup and Configuration:
+1. Setup and Configuration:
 Fork and clone the FastAPI repository.
-Understand the application's architecture, focusing on how FastAPI interfaces with Celery and Redis.///
+Understand the application's architecture, focusing on how FastAPI interfaces with Celery and Redis.
 
 For the Step one i fork the repo and Clone the FastApi Repository using below commands in git bash.
 
