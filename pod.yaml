@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: fastapi
+spec:
+  containers:
+  - name: fastapi
+    image: fastapi
+    ports:
+    - containerPort: 80
