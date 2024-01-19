@@ -7,4 +7,4 @@ spec:
   - name: fastapi
     image: megharaj685/fastapi:latest
     ports:
-    - containerPort: 80
+    - containerPort: 8000
